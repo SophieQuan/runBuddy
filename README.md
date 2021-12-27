@@ -12,3 +12,5 @@ https://sophiequan.github.io/runBuddy/
 
 ## Contribution
 Made with ❤️ by [Sophie Quan]
+
+### ©️2019 Run Buddy, Inc 
